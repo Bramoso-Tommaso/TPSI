@@ -113,7 +113,7 @@ In informatica, **un framework** è un sistema che consente di estendere le funz
 Framework JS
 
 - I framework sono piuttosto impalcature/scheletri/template di programmi che forniscono il progetto, le linee guida e l'organizzazione del codice ma non l'unità finita.
-- Il framework, quindi, fornisce il progetto e il framework di base e mostra anche ciò che è ancora necessario al programmatore in termini di personalizzazione. 
+- Il framework, quindi, fornisce il progetto e il framework di base mostra anche ciò che è ancora necessario al programmatore in termini di personalizzazione. 
 - Il framework fornisce il flusso di un'applicazione software e comunica allo sviluppatore ciò di cui ha bisogno e chiama il codice fornito dallo sviluppatore come richiesto
 
 
